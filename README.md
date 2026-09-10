@@ -679,7 +679,7 @@ Users should verify important information through the relevant official governme
 
 **Sharifah Aljuhani**
 
-AI Graduate | Artificial Intelligence | Agentic AI | LLMs | Machine Learning
+AI Engineer | Artificial Intelligence | Agentic AI | LLMs | Machine Learning
 
 This project was developed as a final project for the  
 **Advanced Agentic AI Systems Engineering** program at  
