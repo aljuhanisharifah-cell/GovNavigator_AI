@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchain-groq
+scikit-learn
+pandas
+requests
+sentence-transformers
+faiss-cpu
